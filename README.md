@@ -146,7 +146,7 @@ Simulação de uma rede de computadores desenvolvida em Python, envolvendo comun
     height = "180"
     src = "https://github-readme-stats.vercel.app/api?username=Paulozo6&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-
+<br/>
   <img
     align = "left"
     alt = "Top Languages"
