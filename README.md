@@ -163,6 +163,7 @@ Simulação de uma rede de computadores desenvolvida em Python, envolvendo comun
 ---
 <br/>
 
+
 ### 📫 Onde me encontrar
 
 📧 paulosistemas.trabalho@gmail.com
